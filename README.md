@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/811dc9e6-262c-4b81-9176-7c2154781224
+
 # Quasar Simulation: A 3D Black Hole in Python
 
 A real-time, rotatable 3D simulation of a quasar (a supermassive black hole feeding on gas and dust), written in pure Python with NumPy and Pygame. No game engine and no 3D library: every particle, rotation, and glow is calculated by hand with math.
