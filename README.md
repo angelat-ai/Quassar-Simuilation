@@ -6,7 +6,17 @@ A real-time, rotatable 3D simulation of a quasar (a supermassive black hole feed
 
 ## Demo Video
 
-[Watch the demo video](Demo%2Cmp4.mp4)
+
+
+https://github.com/user-attachments/assets/d9b2e2b5-3484-4430-a3d2-d0bfc0e18440
+
+
+
+https://github.com/user-attachments/assets/0dcdcd65-94ed-44e2-aa64-9ae2871fb144
+
+
+
+
 
 ## Gallery
 
