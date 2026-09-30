@@ -2,17 +2,17 @@
 
 A real-time, rotatable 3D simulation of a quasar (a supermassive black hole feeding on gas and dust), written in pure Python with NumPy and Pygame. No game engine and no 3D library: every particle, rotation, and glow is calculated by hand with math.
 
-![Quasar simulation main view](assets/quasar-main.png)
+![Quasar simulation main view](quasar-main.png)
 
 ## Demo Video
 
-[Watch the demo video](assets/demo.mp4)
+[Watch the demo video](Demo%2Cmp4.mp4)
 
 ## Gallery
 
 | Edge-on view | Zoomed out | Close-up |
 | :---: | :---: | :---: |
-| ![Edge-on view](assets/quasar-edge-on.png) | ![Zoomed out](assets/quasar-zoom-out.png) | ![Close-up](assets/quasar-close-up.png) |
+| ![Edge-on view](quasar-edge-on.png) | ![Zoomed out](quasar-zoom-out.png) | ![Close-up](quasar-close-up.png) |
 
 ## Features
 
@@ -44,10 +44,10 @@ A real-time, rotatable 3D simulation of a quasar (a supermassive black hole feed
 Requirements: Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/angelat-ai/quasar-simulation.git
-cd quasar-simulation
+git clone https://github.com/angelat-ai/Quassar-Simuilation.git
+cd Quassar-Simuilation
 pip install -r requirements.txt
-python black_hole.py
+python blackhole_3d.py
 ```
 
 If the animation runs slowly on your computer, lower `N_DISC` (default 50000) and `N_JET` (default 16000) in `black_hole.py`.
